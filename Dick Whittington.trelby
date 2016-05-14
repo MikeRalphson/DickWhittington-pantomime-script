@@ -1,0 +1,2339 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:1227
+Cursor/Column:49
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,DICK WHITTINGTON
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMike Ralphson
+#Title-String 15.000000,248.460000,12,,Courier,,
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.@ ACT I
+.\Scene 1 - The village fair
+>.The pleasant country village of Stockcross, in the summer of
+..1375.
+>.The villagers are gathered for the annual hiring fair, where
+>.labourers are chosen to tend the fields for the harvest,
+>.servants are chosen for the big houses and young boys and
+>.girls hope to win an apprenticeship to a craftsman which
+..will shape the rest of their lives.
+>.Opening song and villager's dance. Something along the lines
+>.of Ralph McTell's "Hiring Fair" in spirit but probably
+..something more fun than that.
+._Village crier
+.:Hear yea! Hear yea!
+._first villager
+.:All right, no need to shout!
+._Second villager
+>:Shh, it's important, it's the
+.:village crier.
+._FIRST VILLAGER
+.:What, like a town crier?
+._SECOND VILLAGER
+>:Yes, but quieter. They start off
+>:crying to themselves, then they
+>:progress to crying to other people,
+>:eventually everyone gets fed up and
+>:gives them a job and they end up as
+>:a village crier, town crier or city
+>:crier. I heard of one guy in Wales
+.:had his own island.
+._FIRST VILLAGER
+.:Really, who was that?
+._SECOND VILLAGER
+.:Barry Cryer.
+._VILLAGE CRIER
+.:Hear yea! Hear Yea!
+._FIRST VILLAGER
+>:I think he needs the prompt
+.:already.
+._SECOND VILLAGER
+>:He's probably going to say it's
+>:time for the apprentices to be
+.:chosen.
+._FIRST VILLAGER
+>:And that afterwards the rest of the
+>:day will be a huge feast to
+>:celebrate the village's great
+>:fortune, before the real hard work
+.:of the year starts.
+._SECOND VILLAGER
+.:Yes, I expect that'll be it.
+._VILLAGE CRIER
+>:Hear... I don't think I'll bother
+.:now.
+..Enter stage right, the Lord of the Manor
+._LORD SWEETIE
+.:Ahem!
+._VILLAGE CRIER
+>:Pray silence for your Master, Lord
+.:Sweetie of Stockcross.
+>.To the strains of Prokofiev's Dance of the Knights, Lord
+..Sweetie enters.
+._LORD SWEETIE
+>:My Lords (ah, that's just me then),
+>:Ladies (that'll be the wife),
+>:gentlemen ... put those cigars out!
+.:... boys and girls...| 
+>((Looks around at the
+.(audience)
+>:urchins, beggars, waifs and strays,
+>:it gives me great pleasure to
+>:announce the results of the 60th
+>:Annual Stockcross Young
+>:Apprentice-on-the-Glebe
+.:competition.
+..Reads from the scroll handed to him by the Village Crier
+._LORD SWEETIE
+.:Dick Carter?
+._FIRST VILLAGER
+.:Yes sir!
+._LORD SWEETIE
+>:You have been apprenticed to Jensen
+>:the Cartwright. Hope the wheels
+>:don't come off that one. You're
+.:hired!
+>.As each young lad is apprenticed, he catches the eye of one
+>.of the young village girls. They walk or dance to the sides
+..of the stage.
+.:Dick Cooper?
+._SECOND VILLAGER
+.:Here sir!
+._LORD SWEETIE
+>:You have been apprenticed to Bob
+>:Brewer at the pub, I'm sure it'll
+>:be a barrel of laughs. You're
+.:hired! Dick Smith?
+._Mrs Whittington
+>:Ooh, what a lot of... apprentices
+.:there are this year.
+._third villager
+.:Here!
+._LORD SWEETIE
+>:You have been apprenticed to
+>:Shoe'em or Glue'em the Farriers.
+>:It's a hard, hot, sweaty, dirty
+>:kind of job, but after seven
+.:years...
+._THIRD VILLAGER
+.:Yes?
+._LORD SWEETIE
+>:You start getting paid! You're
+>:hired! And finally, our exchange
+>:student from Hamlyn in Germany,
+.:Dick Piper!
+._DICK PIPER
+.:Ja?
+._LORD SWEETIE
+>:Obviously you know you'll be needed
+.:at the Ratcatchers.
+._dick piper
+>:Ziss is ein other pub? How many are
+.:you having please?
+._LORD SWEETIE
+>:No, not the pub, carrying on the
+>:excellent work with Roger the
+>:Verminator, which has seen all the
+>:rats driven out of Stockcross this
+>:year, making ours one of the
+>:happiest, most prosperous and above
+>:all, least itchy villages in the
+>:whole of Berkshire. Right, everyone
+>:else: knitting, ploughing, trying
+>:to invent the printing press, you
+.:know the drill.
+._MRS WHITTINGTON
+.:Excuse me?
+._LORD SWEETIE
+.:Yes?
+._MRS WHITTINGTON
+.:Is that all the announcements?
+._LORD SWEETIE
+>:Yes, ... oh, hang on, there's one
+.:more I've forgotten.
+._MRS WHITTINGTON
+>:Oh, that's a relief. That'll be my
+>:Dick, I wonder where he'll be
+>:apprenticed? Then he can learn a
+>:trade, find a lovely girl from the
+.:village and settle down.
+._LORD SWEETIE
+.:Where's the village cat?
+._CAT
+.:Here, my lord.
+._LORD SWEETIE
+>:Right, I've called you here to
+.:discuss your performance.
+._cat
+.:Thank you Lord!
+._LORD SWEETIE
+>:Don't thank me yet. Your last task
+>:was to get rid of all the rats in
+.:Stockcross.
+>.The Cat looks around the stage exaggeratedly, as if doing
+..one last check for rats
+.:How do you think you did?
+._cat
+.:Purr-fectly!
+._LORD SWEETIE
+>:Your team leader on that task was
+.:Dick Piper wasn't it?
+._cat
+.:For all the good he was!
+._LORD SWEETIE
+>:Management's not about doing all
+>:the work for your team you know.
+.:Why have a dog and bark yourself?
+._cat
+.:A dog? Where? Where?
+._LORD SWEETIE
+>:It's just a saying. And other
+>:people have been saying you tried
+.:to take all the credit.
+._cat
+.:But I did all the work!
+._LORD SWEETIE
+>:There's no "I" in "working
+.:together".
+._cat
+.:I think there is.
+._LORD SWEETIE
+>:I meant "teamwork". It's hard to
+>:remember all these new clichés. To
+>:show you a good example of
+>:teamwork, I'm going to consult my
+>:advisors. Right boys and girls,
+.:shall I fire her?
+..Can't hear you etc, gets audience to shout
+>:Well who cares what you think you
+>:horrible lot! Maybe this will
+>:convince you. Cat, I've got your CV
+.:here... somewhere.
+>.The Village Crier hands Lord Sweetie another scroll. When
+..unfurled it is very, very long.
+>:Stockcross Primary School - junior
+>:vermin control operative. Park
+>:House Junior School - acting deputy
+>:infestation investigator. St Barts
+>:Free School Technical Academy and
+>:Borstal - school mascot. Oxford -
+>:double first in Pure and Applied
+.:Rodent Studies?
+..The Cat looks very proud.
+>:I had dinner with the Dean of
+.:Oxford. He's never heard of you.
+._cat
+>:Ah... no, not Oxford! Cambridge, it
+.:was Cambridge!
+._LORD SWEETIE
+>:Cambridge don't use cats to chase
+>:rats. They use Ninja owls, they've
+>:always got to be different. This
+>:CV's a pack of lies! Shall I fire
+.:him boys and girls?
+..Again, gets audience to shout.
+._LORD SWEETIE
+>:Doesn't matter! I've made my
+.:decision.
+..Ominous music.
+>:Dick Piper can stay in charge of
+.:rat catching. You...
+._cat
+.:Yes?
+._LORD SWEETIE
+>:You're fired! Right, everyone else,
+>:while I'm still in a good mood,
+.:take a half day holiday.
+..Villagers all cheer.
+._LORD SWEETIE
+.:Unpaid!
+..Villagers all boo.
+>.Lord Sweetie exits through the audience, dispensing
+>.sweeties, trying to charge children for them, firing, and
+..occasionally hiring as he goes. 
+>.CLOSE CURTAINS leaving just Dick and Mrs Whittington Front
+..of Tabs
+._dick
+>:Oh Mum! There's no apprenticeship
+.:for me. What am I going to do?
+._MRS WHITTINGTON
+>:It'll be alright son, something'll
+>:turn up, you just see. I'm sure you
+.:can get a job at the Rising Sun.
+._dick
+>:Oh, I couldn't... you drink in
+.:there.
+._MRS WHITTINGTON
+.:Well, then there's the Lord Lyon.
+._dick
+|:Dad
+.: drinks in there.
+._MRS WHITTINGTON
+>:Well, what about the Post Office,
+>:the little shop, the B&B, the
+.:dry-cleaners...
+._dick
+.:They're all the same place!
+._MRS WHITTINGTON
+.((Defensively)
+.:Well, it's a very small village.
+._DICK
+>:It's no good, Mum. I'm going to
+.:have to leave and find my fortune.
+._MRS WHITTINGTON
+>:What, with a stick over your
+>:shoulder and a knotted handkerchief
+.:containing half a stale loaf?
+._DICK
+>:Actually I was more thinking along
+>:the lines of some sturdy walking
+>:boots, a good waterproof jacket and
+>:a lightweight sleeping bag, but
+>:whatever you think best. I'll go
+.:and find that stick.
+..Exits stage right.
+._MRS WHITTINGTON
+>:What am I going to do? My only son,
+>:alone out there in the big scary
+>:world, with all manner of dangers
+.:and frights and...
+..The cat enters and taps Mrs Whittington on the shoulder
+._CAT
+.:Excuse me...
+._MRS WHITTINGTON
+>:Aargh! You frightened the life out
+.:of me. What do you want?
+._cat
+>:I was thinking I could go with
+>:Dick, keep an eye on him, make sure
+>:he doesn't get into trouble, that
+.:kind of thing.
+._MRS WHITTINGTON
+>:Would you do that? Really? I
+>:wouldn't want Dick to think I was
+.:interfering.
+._cat
+>:No trouble. There's nothing left
+>:for me here now, so I might as well
+.:make myself useful.
+._MRS WHITTINGTON
+.:Is there anything you need?
+._cat
+>:You couldn't just scratch between
+.:my ears could you?
+..Mrs Whittington does so
+._cat
+.:Oh, that's sooooo nice!
+..Exit both
+|\ 
+.\Scene 2 - the Forest - dusk
+>.OPEN CURTAINS : Enter Dick, stage right. Lights low, sign?
+>.Ye Olde A4. "Roadworks, delays expected until 1623". Dick
+|.has an 
+|.extremely
+>. long stick with his red and white spotted handkerchief on
+..the end.
+._dick
+>:I'm not so sure this was a good
+>:idea. It's dark, it's scary, it's
+>:past my bedtime, I'm| so far from
+>:home... It'll be even worse when I
+>:get past| Thatcham. And I keep
+>:getting this feeling I'm not
+.:alone...
+>.As Dick disappears into the wings, Mrs Whittington sneaks
+..onto the stage, shushing the audience.
+._MRS WHITTINGTON
+>:Don't tell anyone, but I just can't
+>:let my boy and that silly cat
+>:wander off alone in the woods!
+>:There's no way I can go all the way
+>:to London, his Dad can't be left
+>:alone for five minutes, the bar tab
+>:will be horrendous. If only there
+>:was someone I could call on for
+.:help...
+.((suddenly)
+.:I know!
+>.Mrs Whittington gets out a stick of rock or a lollipop and
+..starts licking.
+.:Nine! Nine! Nine!
+>.There is the sound of a police-type siren, and a Fairy
+..appears wearing a kilt and waving a large toothbrush.
+._FAIRY
+>:And what do you think you're doing!
+>:That'll rot your teeth, they'll all
+>:go manky and fall out yer heed!
+.:Oh... it's you.
+._MRS WHITTINGTON
+>:You did say if I ever needed help,
+.:I should just call on you.
+._fairy
+>:I meant if you needed any whitening
+>:or root canal work, not babysitting
+.:yon waster on his gap year!
+._MRS WHITTINGTON
+>:I thought you were supposed to be
+>:his fairy godmother, not just the
+.:family tooth-fairy.
+._FAIRY
+>:Aye, with all these cutbacks we're
+>:having to double-up. I thought it'd
+>:be a doddle, being Fairy Godmother
+>:to a quiet young village lad, I
+>:thought, he's nae going to be any
+>:bother, won't go and get himself
+>:into any trouble... then what does
+>:he go and do, only run off to try
+>:and make his fortune through one of
+>:the most dangerous forests in the
+.:kingdom!
+>.Dick has wandered back on stage and Mrs Whittington quickly
+>.hides. Dick has noticed the Fairy and taps her on the
+..shoulder. The Fairy screams (in a Scottish accent)
+._dick
+>:Sorry! I didn't mean to scare you,
+>:I just overheard you saying
+>:something about this being... a
+.:dangerous forest?
+>.The Fairy says the following while trying to dodge Dick's
+..stick.
+._fairy
+|:Well, 
+|:one
+>: of the most dangerous yes. It's
+>:not like it's the Witches' Wood, or
+>:the Cannibal Clearing or the
+>:Heebie-jeebie hedgerows, but it's
+.:pretty terrifying yes.
+._dick
+.:Why, what's so bad about it?
+._fairy
+>:They say it's the hunting-ground of
+>:an animal so hideous that no-one
+>:has ever lived to describe it
+.:properly.
+._dick
+.:I see.
+._fairy
+.:They say, first you smell it.
+._dick
+.:Ooh, does it smell terrible?
+._fairy
+>:No, that's the thing, it's supposed
+>:to smell gorgeous, of honey,
+>:redcurrants and mint sauce. That's
+.:how it tempts its prey.
+._dick
+.:Well that doesn't sound so bad.
+._fairy
+>:Sound is the next thing! As it gets
+.:closer you hear the buzzing!
+._dick
+.:The buzzing?
+._fairy
+>:Aye, then a kind of high grunting
+>:noise like a gate that's
+>:particularly grumpy about not being
+.:oiled. And finally...
+._dick
+.:Yes...
+._fairy
+.:Well, it bleats.
+._dick
+.:Bleats?
+._fairy
+.:Like a sheep. Baaaaa!
+._dick
+>:For a beast that no-one has lived
+>:to describe, it's lucky we know so
+>:much about it. Why on earth does it
+>:smell so strange and make such a
+.:ridiculous noise?
+._fairy
+>:Because it's a hideous cross
+>:between three different kinds of
+>:animal. A male honeybee, a female
+.:deer and a female sheep.
+._dick
+.:Not... ?
+._fairy
+.:Yes, the dreaded Bee-Hind-Ewe!
+..FX; traditional three dramatic chords: der-der-derrr!
+..Dick looks around
+._dick
+.:Where? Where?
+..As Dick turns to look, the Fairy has to dodge Dick's stick.
+._fairy
+>:No, you've got the wrong end of the
+>:stick. And so have I! That's what
+.:it's called, the Bee-Hind-Ewe!
+._dick
+>:And is there any defence against
+>:this frankly rather
+.:improbable-sounding beast?
+._fairy
+>:Many have tried to capture it
+>:before, always in vain, but legend
+>:says you must sneak up on it from
+.:the side.
+._dick
+.:Why from the side?
+._fairy
+>:Well the front-end has enormous
+>:spiky antlers like a deer, and the
+>:back end has a huge poisonous sting
+.:like a bee.
+..The fairy attempts to mime this. Badly.
+._dick
+.:And the middle bit?
+._fairy
+>:Well, the middle bit's the most
+>:like a sheep, so it's all woolly
+>:and fluffy and basically quite
+.:stupid and obsessed with grass.
+._dick
+.:And that's its weakness is it?
+._fairy
+>:Och aye, if you can lure it onto a
+>:piece of paper or card covered in
+>:grass, give it a poke from the
+>:side, the antlers all get caught up
+>:in the wings and you can just pop a
+>:cup or a jam-jar over it while it's
+.:confused.
+._dick
+>:A jam-jar? Phew! I thought it was
+.:going to be this big...
+._fairy
+>:Oh aye, always make sure you've got
+.:a jam-jar with you.
+>.Dick starts checking his pockets and spotted
+..handkerchief-on-a-stick
+._fairy
+>:An eight-food wide one should just
+.:about do it...
+._dick
+>:I knew there'd be a catch!
+.:Nothing's ever simple.
+._fairy
+>:I tell you what, I'll set up an
+>:early warning system with all my
+.:magical helpers.
+..To audience
+>:That's you lot! Come on, pay
+>:attention, you have to do your bit
+>:as well you know! If you hear
+>:anything that sounds like all those
+>:horrible bits of animals, you have
+>:to shout out a warning, shout out
+.:BEE! HIND! EWE! as loud as you can. 
+..They practice
+>:And remember, there's the smell it
+>:uses to tempt people, so if you get
+>:a whiff of honey, or venison and
+>:roast lamb, shout BEE! HIND! EWE!
+>:But.. we do have to be a bit
+>:careful with that one, we thought
+>:the village was about to be overrun
+>:by a whole flock of bee-hind-ewes,
+>:turned out to just be the new
+.:tasting menu at the Vineyard.
+._dick
+>:And that's supposed to protect me?
+>:A raggeddy bunch of elves, pixies
+>:and gnomes? Well at least they
+>:might be some help now, but I bet
+>:they'll be rubbish after the
+>:interval. Haven't you got any other
+.:advice for me?
+._fairy
+>:Yes... keep brushing your teeth.
+>:I'm not made of money! But if you
+.:ever need me, here's my card!
+._DICK
+>:Flossie McCavity,
+>:Tooth-Fairy-Godmother, fillings and
+>:tricky extractions a speciality...
+.:Pity she doesn't do crowns.
+>.Spotlight on Dick as the Fairy leaves the stage (sound
+..effect of dentist's drill and tooth being pulled - Pop!)
+._dick
+>:All alone again, and nothing to
+>:show for it apart from some
+>:zoological mumbo-jumbo and
+>:elementary toothcare advice. Even
+>:that stale bread would come in
+>:handy now. I'm starving. What I
+>:wouldn't give for a great big
+>:Sunday roast! All the vegetables,
+>:the juicy meat, all the sauces! Oh,
+.:I can smell it now!
+..Sniffs the air like a Bisto-kid
+>:Mmmm! Parnips with honey! Potatoes
+.:and mint sauce! Roast lamb!
+>.Dick carries on sniffing as we start to hear the buzzing,
+>.snuffling, high-pitched barking and bleating that can only
+..mean one thing.
+.:Mmmm.... dinner!
+>.Just as (hopefully) the audience are going wild warning
+>.Dick, we hear the sound of a sheet of paper being slid
+>.across the floor, some munching, and then a very large
+..jam-jar being dropped on top and settling.
+..The Cat enters, looking very pleased with herself.
+._cat
+.:Well that was a stroke of luck!
+._dick
+.:What was?
+._cat
+>:I was just just about to be
+>:skewered on a set of antlers and
+>:stung all over when I realised this
+>:monster was only after my supply of
+>:kitty-grass. Backing away I
+>:happened to bump into this
+>:eight-food wide jam-jar which
+>:someone had left lying around, and
+.:the rest was easy!
+._dick
+.:You mean?
+._cat
+.:Yes, you're safe!
+._dick
+>:No, ... no dinner! What are you
+.:doing in the forest anyway?
+._cat
+>:I've come to keep you company, and
+.:keep you safe...
+>.The Cat takes Dick's stick off-stage, we hear the sound of
+>.frantic sawing. When the Cat comes back on stage, the stick
+..is now much (ridiculously) shorter.
+._cat
+>:That's better! There's nothing for
+>:me in Stockcross. I did all the
+>:work getting rid of the rats and
+>:that Snide Swiper of Hamyln has
+>:taken all the credit. I thought I'd
+>:come with you and make my fortune
+.:in London as well.
+._dick
+>:What kind of fortune does a cat
+.:need?
+._cat
+>:Well enough for a nice pair of
+.:boots maybe?
+._dick
+.:Why?
+._cat
+>:It'd give me a headstart on next
+>:year's panto. That one's got magic
+.:shoemakers in it.
+._DICK
+.:Cobblers?
+._cat
+.:No, it has, honest!
+._dick
+>:Well I certainly feel a lot safer
+>:now I'm not on my own, and you got
+.:rid of the Bee-Hind-Ewe.
+._cat
+.:Where? Where?
+._dick
+.:No, the creature.
+._cat
+>:Oh yes, we're definitely safe from
+.:that. 
+._DICK
+>:It's a bit of a swizz we didn't
+|:actually get to 
+|:see
+.: it though.
+._cat
+>:Ah, that's why you have to buy the
+>:DVD of the panto... for all the
+>:deleted scenes! And the director's
+.:commentary.
+._director
+>((voice - off-stage - or
+>(very large megaphone at
+.(side of stage)
+.:Get on with it!
+._dick
+>:Well, I'm quite looking forward to
+>:the trip now. They say London's|
+>:streets are paved with gold. And if
+>:there are as many roadworks as
+>:I've| heard, then there must be
+>:lots of gold just sitting around,
+>:I'm sure| they won't mind if I have
+>:just a little bit to make my
+>:fortune. In fact| it's such a good
+>:idea I'm glad I've kept it to
+>:myself, otherwise| everyone would
+.:be doing it!
+..Possible song; Gold by Spandau Ballet?
+>.They exit happily on their way to London. Lights down. They
+>.have not noticed a small furry creature which has crept onto
+..the stage. Spotlight on rat?
+..Lights up on a solitary rat
+._rat
+>:Got rid of all the rats, eh? So
+>:she's the one! I know someone who's
+>:going to be very interested to hear
+.:about that.
+>.The rat scurries off stage right, squeaking urgently. CLOSE
+..CURTAINS
+.\Scene 3 - The Forest at Night (Front of Tabs)
+>.The King Rat is seated on his throne of dirty rags, rat
+..tails, skulls and gnawed bones. 
+._KING RAT
+>:With every rat that is driven out
+>:of its rightful hole, another
+>:soldier is recruited to my army.
+>:Every time our numbers grow, I feel
+>:my magical powers increasing! Oh,
+>:we will have revenge against the
+>:villainous villagers of Stockcross
+.:and their moth-eaten moggy. 
+..The King Rat rises from his throne
+>:We will tear those pathetic
+.:peasants limb from limb!
+..If heckled: Oh yes I will etc
+>:We will break their bones and
+>:nibble on their knees, skin their
+>:shins, gnaw on their noses and eat
+>:their ears! Some of them even hiss
+>:and boo at that old fool Lord
+>:Sweetie! They don't know how good
+>:they have it now. Wait until they
+>:see what real evil can do when they
+.:are all subjects of the King Rat!
+..A small rat enters stage right
+._rat
+>:Master! Master! Where are you
+.:master?
+>.The King Rat sits back on his throne and beckons the rat to
+..attend
+._king rat
+>:Who dares scrabble and scurry in my
+.:presence?
+._rat
+>:Only me, your majesty, your humble
+.:servant, Roland.
+._KING RAT
+>:And what business do you have with
+.:your master?
+._rat
+>:I have found her! The one we
+.:squeak, I mean seek.
+._KING RAT
+>:The felonious feline that drove my
+>:kin from Stockcross? Second only in
+>:hatefulness to the dreaded
+.:Bee-Hind-Ewe?
+._RAT
+.:What? Where?
+._KING RAT
+>:No, the monstrous creature that is
+.:the mortal enemy of all rat-kind.
+._rat
+>:Ah, yes, master. But... the cat,
+>:she has been seen on the road to
+.:London, but not alone.
+._KING RAT
+.:Not alone?
+._rat
+>:She's with one of the young humans
+.:from the village.
+._KING RAT
+>:The stampers? The poisoners? The
+>:beaters, chasers, setters of traps
+>:and inventors of things that can't
+>:be nibbled or gnawed-on as is right
+.:and proper?
+._rat
+.:Yes master.
+._KING RAT
+>:Then we have a score to settle with
+>:both of them. That is an itch I
+.:have longed to scratch!
+._rat
+.:Ooh, lovely, itchy, scratchy! Eeek!
+._KING RAT
+>:Be quiet! We must plan our attack,
+>:we too will travel to the human's
+>:city and we shall gather all of my
+>:followers along the way. And
+>:then... our revenge will begin with
+.:the cat and the boy!  
+.\Scene 4 - The outskirts of London
+..OPEN CURTAINS
+>.The road setting again, only this time the sign reads "Ye
+..Old A4, London 0, Stockcross 62.7 Miles" or similar.
+>.Dick and the Cat enter stage right. As they cross the stage,
+>.their way is blocked by a City Guard. The Guard holds his
+>.torch up to see who is approaching, it looks suspiciously
+..like an olympic torch.
+._city guard
+.:Halt! Who goes there?
+._DICK
+.:Hugo's where?
+._CITY GUARD
+.:Hugo who?
+._DICK
+>:I don't know, I'd never heard of
+.:him till you mentioned him.
+._CITY GUARD
+.:Who?
+._DICK
+.:Hugo!
+._CITY GUARD
+.:I never said any such thing!
+._DICK
+.:Oh yes you did!
+._CITY GUARD
+.:Oh no I didn't!
+..Etc
+._cat
+>:Maybe I can help? I speak
+>:jobsworth... Excuse me, stout
+.:yeoman of the guard!
+._CITY GUARD
+.:Yes?
+._cat
+>:We've come to London to make our
+>:fortune. Could you tell us where
+.:the gold is, please?
+._CITY GUARD
+>:The gold? What gold? Haven't you
+.:heard, there's a recession on.
+._DICK
+>:But... I thought the streets were
+.:paved with it.
+._CITY GUARD
+>:Listen sonny, London's streets are
+>:home to nearly a hundred thousand
+>:people, there's no proper toilets
+>:or sewers, and apart from the
+>:river, everything comes in and goes
+>:out on horseback. So the streets
+>:are certainly paved with something,
+.:but it's not gold!
+._cat
+>:That explains the smell. I thought
+.:it was you.
+..The city guard sniffs his armpit just in case
+._CITY GUARD
+>:That's why the Mayor (spit)
+.:introduced the tax.
+._DICK
+.:What tax?
+._CITY GUARD
+>:The Indigestion Charge. Every horse
+>:that comes in is charged 2p... to
+>:pee, and a thrupenny bit to have
+.:a...
+._cat
+.:Yes, we get the idea!
+._CITY GUARD
+>:You're entering the Indigestion
+>:Zone. All the money goes to him
+>:(spit) the Mayor... (spit) Boo-Hiss
+.:Johnson.
+._DICK
+.:Boo-Hiss Johnson?
+._CITY GUARD
+|:Yes, the 
+|:new
+>: Mayor. At least he's better than
+>:the old one, Ken Livingwage... he
+>:wanted to introduce double-length
+>:horses that bent in the middle when
+>:they went round corners. The only
+>:good thing about that was it
+>:reduced unemployment round this
+.:time of year.
+._DICK
+.:Why's that?
+._CITY GUARD
+>:Every pantomime horse had one front
+.:end and three back ends!
+._DICK
+>:London's beginning to sound
+>:awful... no gold, wicked mayors...
+>:and now I think I've trodden in
+.:something.
+._cat
+>:We can't just leave, with our tail
+>:between our legs... Well, I mean I
+.:could, you probably couldn't.
+.((to city guard)
+>:We haven't got any horses, so can
+>:you just let us in so we can see
+.:about this gold for ourselves?
+._CITY GUARD
+.:Have you got any innuendoes?
+._DICK
+.:Innuendoes?
+._CITY GUARD
+.:You know, like double entendres.
+._DICK
+>:Even if I did I wouldn't give you
+.:one.
+._CITY GUARD
+.:Fivepence!
+._DICK
+.:For what?
+._CITY GUARD
+.:Suggestion Charge! Any questions?
+._DICK
+>:Yes, where am I going to get five
+.:pence from?!
+._CITY GUARD
+>:That's another five pence! Question
+.:Charge! Have you seen any rats?
+._cat
+.:Certainly not!
+._CITY GUARD
+>:Infestation Charge you know. Can't
+>:be too careful, seen loads round
+.:here the last few days...
+._DICK
+>:Is there anywhere we can go to look
+>:out over the city and see for
+>:ourselves if we can spot just a
+.:little bit of gold?
+._CITY GUARD
+>:You can try all the hills in the
+>:city. There's Lavender Hill,
+>:Parliament Hill, Primrose Hill,
+>:Shooter's Hill, and if you're still
+>:looking, Highgate Hill. If you get
+>:to Harry Hill (that's the one with
+>:no grass on the top) , you've gone
+>:too far. But what are the chances
+.:of that, eh?
+..Dick and the Cat trudge off sadly. CLOSE CURTAINS?
+..Two fruit sellers enter.
+._CITY GUARD
+>:Halt! Hugo's where? I mean, Huge
+.:Nose-Hair, I mean...
+._FRUIT SELLER 1
+.:Who goes there?
+._CITY GUARD
+.:Erm, I do, the city guard.
+._FRUIT SELLER 2
+.:Is there only one of you?
+._CITY GUARD
+>:Well there should be a whole
+>:battalion, from G4S, only they
+>:never turned up. You're not going
+.:to cause trouble are you?
+._FRUIT SELLER 1
+>:No, we're just going round selling
+.:fruit outside the churches.
+._CITY GUARD
+.:Sounds like a cue for a song...
+..Sing-a-long Oranges and Lemons
+.\Scene 5 - Highgate Hill
+..OPEN CURTAINS
+._cat
+>:It's dead round here, quiet as the
+.:grave!
+._DICK
+>:And it's cold, and windy, and
+>:miserable, and I'm hungry, and my
+>:shoes are worn out, and we have to
+.:keep stopping for you to have naps!
+._cat
+.:I'm a cat - it's how we roll.
+._DICK
+>:We can see for miles around and all
+>:I can see is dirt and houses and...
+>:some kind of overgrown sports day
+>:in the East End. That'll never
+.:catch on.
+._cat
+.:So what do we do now?
+._DICK
+.:Give up. Head home. Turn back.
+..From off-stage we hear voices...
+._fifi-belle
+.:Turn back!
+._cat
+.:Turn back?
+._trixi-belle
+.:Turn back!
+._clara-belle
+.:Turn back!
+._DICK
+>:That's the weirdest thing... who
+.:ever heard of a hill with an echo?
+>.Enter Fifi-Belle, Trixi-Belle and Clara-Belle. The first two
+..are typical ugly-sister types. Clara-Belle is a bit butch.
+._FIFI-BELLE
+.:Hello dearie!
+._TRIXI-BELLE
+.:Hello darlings!
+._CLARA-BELLE
+.:Alright?
+>.The cat instantly goes up to the Belles and rubs her head
+>.against them, allowing herself to be tickled. She is a good
+..judge of character
+._DICK
+.:Err, hello! Who are you?
+._FIFI-BELLE
+.:I'm Fifi-Belle...
+._TRIXI-BELLE
+.:And I'm Trixi-Belle...
+._clara-belle
+.:And I'm Clara-Belle.
+._FIFI-BELLE
+.:We're the Belles of Bow.
+._TRIXI-BELLE
+>:And we're here to tell you to turn
+.:back!
+._DICK
+>:No need, I'd already decided that
+.:for myself.
+._clara-BELLE
+>:No, we mean turn back to London and
+.:stop being such a misery.
+._DICK
+.:Why?
+._fifi-BELLE
+>:Because you have to fulfill your
+>:destiny. We're good at spotting
+.:potential. 
+._Trixi-BELLE
+.:Sort of scouts. 
+._cat
+.:What is this, "Panto's Got Talent"?
+._Clara-belle
+>:We see the future in our dreams! We
+.:told that Edward he'd be king.
+._FIFI-BELLE
+.:Edward the Third, that was.
+._TRIXI-BELLE
+>:And we told those Two Wise Men to
+.:advertise for a mate.
+._clara-BELLE
+>:We told Sir Lancelot that he'd be a
+>:knight, first in France, and then
+>:England and finally a Knight of the
+.:Round Table.
+._fifI-BELLE
+>:And three times a knight is enough
+.:for anyone.
+._DICK
+.:And what about me?
+._Trixi-BELLE
+.:You're going to be a Mayor.
+._Clara-BELLE
+.:Three times. Unsurprisingly.
+._cat
+>:Mayor of Stockcross! That'll be the
+.:day.
+._FiFi-BELLE
+.:No, Mayor of London.
+._DICK
+>:Ah, so you're lumping me in with
+>:Boo-Hiss Johnson and the
+.:bendy-horse obsessed newt-fancier?
+._TRIXI-BELLE
+>:No, you're going to be a good
+>:Mayor, really useful and popular
+.:and value for money. Like...
+._Clara-BELLE
+.:Like...
+._FIFI-BELLE
+.:... anyway, a really good Mayor.
+._DICK
+>:But how do I get to be Mayor? I
+>:don't even have anything to eat or
+.:anywhere to sleep.
+._TRIXI-BELLE
+.:Positive Mental Attitude young lad.
+._CLARA-BELLE
+>:You won't get anywhere unless you
+.:believe in yourself you know.
+._FIFI-BELLE
+>:Get down there and knock on the
+>:first door you see, and tell them
+>:who you are and that you want a
+.:job.
+._DICK
+.:Right, I will! Thanks!
+..Dick and the Cat exit stage right
+._TRIXI-BELLE
+.:Do you think that'll work?
+._CLARA-BELLE
+.:No idea love.
+._FIFI-BELLE
+>:We should probably stop eating that
+.:cheese before bedtime.
+>.BLACK OUT, the Belle's exit stage left. Lights up, Dick and
+>.the Cat return to stage. Dick is rubbing his nose OR we see
+>.a bucket of confetti thrown over Dick and the Cat from
+..off-stage.
+._dick
+>:People can be quite rude can't
+.:they?
+._cat
+.:They can.
+._DICK
+>:Twenty seven doors I've knocked on,
+.:twenty eight slammed in our faces.
+._cat
+|:Twenty 
+|:eight
+.:?
+._DICK
+>:Yes, there was the one who slammed
+>:the door, opened it again, threw a
+>:barrel of fish guts over us and
+.:slammed it again.
+._cat
+.:Mmmm, yes, that was great!
+._DICK
+.:I suppose we can try one more.
+>.Dick knocks at a door (can be just a sound effect). It opens
+..to reveal Alice Fitzwarren.
+._alice
+.:Hello!
+._DICK
+>:Hello, my name's Dick Whittington,
+>:and I was wondering if you had any
+>:jobs going? I'd work really hard,
+>:you don't need to pay me, I just
+>:need somewhere to sleep while I try
+>:and work out how I'm going to make
+>:my fortune and, I dunno, marry
+|:someone 
+|:gorgeous
+.:...
+._alice
+.:Sorry, don't think so.
+>.Alice is just about to close the door when she remembers
+..something.
+.:Can you cook?
+._DICK
+.:Oh yes!
+._alice
+.:Daddy? Do we need a cook?
+._alderman fitzwarren
+.((voice off-stage)
+.:No!
+._alice
+.:Oh. Can you clean?
+._DICK
+.:Oh yes!
+._alice
+.:Daddy? Do we need a cleaner?
+._ALDERMAN FITZWARREN
+.:No!
+._alice
+>:Oh. Can you get stones out of
+.:horses hooves?
+._DICK
+.:Yes!
+._alice
+.:Daddy! ...
+._ALDERMAN FITZWARREN
+.:No!
+._alice
+.:I haven't said what it is yet!
+._ALDERMAN FITZWARREN
+.:Sorry.
+._alice
+.:Do we need a stable-boy?
+._ALDERMAN FITZWARREN
+>:Ah. Good question. I was just
+>:thinking about that this morning...
+.:No!
+._alice
+.:Sorry.
+>.She closes the door. Just as Dick is about to turn away
+..dejectedly, it reopens.
+._alice
+.:Daddy? Do we need a cat?
+._ALDERMAN FITZWARREN
+>:What a ridiculous question! Of
+>:course we do! Have you seen the
+>:size of the rats around here
+.:lately?
+._alice
+.:Is that your cat?
+._DICK
+>:Well, not really... she's quite
+.:independent.
+._cat
+.:Silly boy!
+.((to Alice)
+>:We're a team. Wherever I go, he
+.:goes.
+._alice
+>:In that case I'm sure we can come
+>:to some arrangement. Daddy will
+>:probably let you sleep in the attic
+.:or something.
+.((Shouts off)
+>:Daddy! I've just employed a cat,
+>:and a boy to do... servanty things!
+.:Is that alright?
+.((to Dick)
+>:Come in, lets get you some new
+>:shoes, and maybe get those fish
+.:heads out of your hair.
+._DICK
+>:Finally! Things are starting to go
+>:my way! Maybe I will live happily
+.:ever after!
+._cat
+.:Doh! Don't say that!
+>.Song - odd-couple / togetherness theme? Me And My Shadow?
+..'Together (Wherever We Go)' from Gypsy?
+..Curtain.
+.@act II
+.\Scene 1 - the Fitzwarren Kitchen - Night
+>.A clock strikes three, an owl hoots. Gentle snoring. Under
+>.blue moonlight, we see that rats are sneaking into the
+..kitchen, exploring and beginning to dance happily.
+>.Possible song - Cool for Rats, to the tune of Cool for Cats
+..by Squeeze
+..As the song finishes, the King Rat enters, stage left
+._KING RAT
+.:What is the meaning of this!
+._rat one
+.:We've found them your majesty.
+._rat two
+>:Found them! Found them! The cat and
+.:the boy!
+._KING RAT
+>:Good work my vigilant vermin. We
+>:can destroy them both, return and
+.:conquer the whole of Stockcross!
+._rat three
+.:Or...
+._king rat
+.:Who are you?
+._rat three
+.:Nora, my lord.
+._KING RAT
+.:Of course. Explain yourself...
+._RAT THREE
+>:We can use this house and its
+>:riches as a base to take over the
+>:whole city, spreading disease and
+>:driving all the humans out! Imagine
+>:not just a village, but a whole
+>:city of rats. With you as King,
+.:obviously.
+._KING RAT
+>:Ah, yes, exactly... I see you
+>:understand my plan perfectly. Now
+.:my resourceful rodents, to action!
+>.Lights down, King Rat exits stage left, the rats stage
+..right.
+>.Lights up to reveal the kitchen in daylight. Mrs Burnett the
+..cook enters.
+._MRS BURNETT
+>:Boy! Boy! Where's that good for
+>:nothing, lazy, useless country
+.:bumpkin got to now!
+._DICK 
+.:Yes Mrs Burnett!
+._MRS BURNETT
+.:Now! Not in five minutes!
+._DICK
+.:No Mrs Burnett!
+.((stage whisper)
+.:Three bags full, Mrs Burnett!
+._MRS BURNETT
+>:Right, I need you to stir this pie
+>:mix. Just that. Keep stirring,
+>:everything else is done. Don't
+>:taste it, don't fiddle with it, the
+>:Alderman and the young Miss love my
+>:pie, the recipe's perfect, but you
+>:do have to keep stirring it. Never
+.:stop!
+._DICK
+.:Yes, Mrs Burnett.
+._MRS BURNETT
+>:I've got to go out to get more
+>:cheese for the traps. That cat's as
+>:useless as you are! And don't
+.:forget, keep stirring!
+..Exit Mrs Burnett stage right
+._DICK
+>:What does she take me for? I'm not
+>:a fool. I can stir a spoon without
+>:messing up. I was always helping
+.:Mum round the kitchen.
+>.He puts a finger into the mixing bowl and tastes a tiny bit
+..from the back of the spoon
+>:Mmmm... not bad... but not enough
+.:sugar...
+>.Dick tries to reach the sugar while continuing to stir. He
+..either can't reach or knocks things over in his attempts.
+.:Cat! Cat! Where's that cat?
+>.The cat enters, blearily rubbing her eyes, stretching and
+..yawning
+._cat
+>:What? I'd only just got back to
+>:sleep after a big yawn and a
+.:stretch. 
+._DICK
+.:Stir this, there, keep stirring.
+..Dick gets the sugar and pours some in.
+>. His hand gets knocked by the cat and the whole bag of sugar
+..goes in.
+>:Oh no! All that sugar! It's going
+.:to ruin the pie.
+._cat
+>:I know, it's ok, put a bit of salt
+.:in so it isn't so sweet.
+._DICK
+.:Salt... salt... Keep stirring!
+>.Dick finds the salt but collides with the Cat again and all
+..the salt goes in
+.:Oh no!
+..From the wings we hear Alice's voice
+._alice
+>:Dick? Dick? Could you come and help
+.:me?
+._DICK
+.:It's Alice... oh, Alice...
+._cat
+.:Who the heck's Alice?
+._DICK
+>:Miss Fitzwarren! The Alderman's
+>:daughter. I'll just go and see what
+.:she wants. Keep stirring!
+._cat
+.:Will do!
+..Exit Dick stage left
+..The cat experimentally tastes the pie mix
+>:Hmmm... not bad... but definitely
+>:not fishy enough. Fish... fish...
+.:ah, fish stock! That'll do.
+..The cat adds a generous glug of fish stock to the pie mix
+>:That's better. My arm's getting
+>:tired. Time for a quick cat nap I
+.:think.
+..To the audience:
+>:Just one thing, if you see a rat,
+>:do me a favour and shout "Rat
+>:Attack Rat!" Can you do that for
+.:me?
+>.When the Cat is happy with the level of shouting, she starts
+>.to nod off, still stirring the mixture, but slower and
+..slower.
+..At the side of the stage, Alice and Dick are in conversation
+._alice
+>:Daddy was wondering if you had
+>:anything to invest in his latest
+>:shipping expedition. I told him not
+>:to be so silly, that you were poor,
+>:but I don't think he quite
+.:understood the concept.
+._DICK
+.:What does he do?
+._alice
+.:He's a merchant...
+._DICK
+.:Banker?
+._alice
+>:How dare you! No, he's honest! He's
+|:merchant 
+|:trader
+>:. He finances ships which sail all
+>:over the world.  They trade goods
+>:everywhere they go. He's very
+>:successful, that's why they made
+.:him an Alderman.
+._DICK
+>:An older man? Taken its toll has
+.:it?
+._alice
+.:No, an Alderman, like a councilor. 
+._DICK
+>:I expect he needs one, with
+>:everyone telling him he looks so
+.:old!
+>.A Rat sneaks on stage, and is trying to release the last bit
+..of cheese from a trap
+>.When the audience wake the Cat, she starts chasing the Rat
+..around the kitchen. The cheese ends up in the pie mixture.
+..Mrs Whittington enters, stage left
+._MRS WHITTINGTON
+>:Hello! Don't mind me! I'm not
+>:interfering, just popped in, you
+.:know...
+._cat
+.:Can't stop now! Rats!
+._MRS WHITTINGTON
+>:I quite understand dear, no
+.:problem. Ignore me, I'm not here.
+.((Winks)
+>:I just popped in to check on my
+>:Dick. I got this postcard saying
+>:things were looking up, and he'd
+>:found a job, and a place to stay,
+>:and he'd met this lovely girl
+>:and... could I come and collect his
+>:dirty laundry. I don't know...
+.:Boys!
+._cat
+.:Could you... just stir that?
+._MRS WHITTINGTON
+>:Of course dearie, my pleasure.
+>:Let's take a look, what have we got
+>:here... Sweet and sour cheesy fish
+>:plum duff.... Interesting. Guess
+>:it's all the rage in London with
+.:their sophisticated city ways.
+.((She tastes it)
+.:Bleurgh! That's disgusting! 
+.((Looking around)
+>:What it needs is a little...
+>:pepper, a touch of garlic, some
+>:rhubarb, a dash of castor oil, some
+>:mint, jam... and Marmite. Got to
+.:have Marmite.
+>.The Cat has finally seen off the Rat, and comes back to the
+..stove to relieve Mrs Whittington from stirring duties.
+>:There you go, I'll just leave some
+>:fresh socks and things there, no
+>:need to make a fuss. Dick doesn't
+>:need to know I was here, I just
+>:wanted to check everything was ok.
+>:I'll be off then, but you let me
+.:know if there's any trouble!
+._cat
+.:Will do!
+>.Just after Mrs Whittington exits stage left, Dick crosses
+..back to the centre of the stage
+._DICK
+.:Who were you talking to?
+._cat
+>:Me? No-one, nope, no siree. No-one
+.:here, that's for sure.
+..Dick takes over stirring duties and tastes the pie mixture
+._DICK
+>:Hmmm... how strange! That tastes
+>:just like one of Mum's Friday night
+.:usey-upey specials.
+..Mrs Burnett re-enters stage left, carrying her rolling pin
+._MRS BURNETT
+.:There you are boy!
+._cat
+.:Does that make him a spotted Dick?
+..Mrs Burnett shoo's off the Cat with her rolling pin
+._MRS BURNETT
+>: Glad to see you haven't deserted
+>:your post. Have you been stirring
+.:all the time?
+._DICK
+>:Oh yes, definitely. Just me,
+>:stirring, nothing added, just like
+.:you said.
+>.Mrs Burnett tastes the mixture... A long slow approving
+>.slurping turns into a grimace of horror and she spits it
+..out.
+._MRS BURNETT
+>:What have you done? You've spoiled
+>:my famous pie filling! There's
+>:going to be hell to pay! Mr
+>:Fitzwarren loves my pies. That's
+>:it. Supper ruined. You're going to
+>:be out on your ear lad! Alderman
+.:Fitzwarren!
+._ALDERMAN FITZWARREN
+.((off-stage)
+.:No!
+..Mrs Burnett exits, still calling for Alderman Fitzwarren
+._DICK
+>:Oh no! What am I going to do! I
+>:can't believe everything's gone so
+>:wrong! And I really wanted to do a
+>:good job, to make something of
+.:myself, and to impress Alice.
+._cat
+>:What about your Tooth-Fairy
+.:Godmother?
+._DICK
+>:Well yes, obviously I'd like her to
+>:be proud of me as well, but it was
+>:really Alice I was thinking of.
+.:She's so... perfect you see.
+._cat
+>:No, I mean can't your Tooth-Fairy
+>:Godmother help? Isn't that what
+.:she's supposed to be there for?
+._DICK
+>:Good idea! Hang on, I've got her
+.:business card here somewhere.
+..Dick finds the business card
+>:In emergencies, open wide and shout
+.:Nine-Nine-Nine!
+>.Dick does so. There is no response. Dick asks the audience
+..to help.
+..With her customary sound effect, the Fairy appears.
+._fairy
+>:And I'll tell you again young
+>:Davey, you're no the man yer pa
+>:was. That Robert the Bruce... eh?
+.:Where am I?
+._DICK
+.:London, sorry.
+._fairy
+>:Oh, it's you. Dragging me around
+>:willy nilly without a
+>:by-your-leave. This had better be
+>:important, I was talking to kings
+>:and queens and, there was going to
+.:be haggis an' neeps an' tatties!
+._DICK
+>:It's this pie. All sorts of things
+>:have been put into it and it's
+>:ruined. We're in so much trouble
+>:with Mrs Burnett, and she's gone
+>:off to tell Alderman Fitzwarren and
+.:Alice...
+._fairy
+.:Alice? Alice? Who the ...
+._cat
+.:I've done that one.
+._FAIRY
+>:Right, so let me get this straight.
+>:You've magicked me five hundred
+>:miles to correct a culinary
+.:catastrophe?
+._DICK
+>:Well, yes... if you put it like
+.:that.
+._fairy
+.:Five hundred miles! 
+>((FX: Da-da-da-dah - a la
+.(Proclaimers)
+.:To rectify a recalcitrant recipe?!
+._DICK
+.:Sorry!
+._fairy
+>:Don't be! I love a challenge.
+>:Didn't I say fillings were my
+.:speciality?
+..The Fairy waves her magic toothbrush over the pie filling.
+>:There, get yer laughing gear round
+.:that.
+..Dick and the Cat very cautiously taste the pie filling.
+._cat
+.:Oh, that's good.
+._dick
+.:That's very good!
+._fairy
+>:You'd better leave some, or you'll
+>:be in as much trouble for eating it
+>:all as you were for messing it up
+>:in the first place. And if you've
+>:quite finished with my services,
+>:I'll be back off home. There's a
+>:wee nip of whisky wi' ma name on
+.:it.
+..The Fairy pops off again, as before.
+._cat
+>:Excellent day's work all round.
+.:Time for a kip I think!
+>.The cat curls up and goes to sleep on the stage, purring
+..happily.
+..Mrs Burnett enters, dragging Alice with her.
+._MRS BURNETT
+>:Just taste it! That's all you'll
+>:have to do. Then you'll know what
+>:this useless, good for nothing,
+>:idle layabout has done to my famous
+.:pie recipe!
+>.Mrs Burnett picks up the pie dish and holds it out to Alice.
+>.Alice very reluctantly tries a tiny taste of the pie
+..filling. 
+._alice
+>:Well, I don't know what Dick's done
+.:to your pie, Mrs Burnett...
+._MRS BURNETT
+.:There, I told you so. Told you!
+._alice
+>:But that's so much better than it's
+>:ever tasted before. It must be his
+.:unjaded honest country palate. 
+>.Mrs Burnett is so shocked she staggers back, trips over the
+>.sleeping cat and ends up pie'ing herself in the face. She
+..exits, spluttering.
+.:Well done, Dick!
+>.Alice gives Dick a peck on the cheek. Dick blushes instantly
+..and gazes dewey-eyed at Alice.
+>:I've been thinking. I think Daddy
+>:should let you go on his next ship,
+>:even if you are poor and haven't
+>:got anything to trade. It's quite
+>:romantic to think of you travelling
+>:all that way, by sea, being away
+>:for months and months. It'll be
+>:hard to see you go, but it's
+>:obviously for the best if that's
+.:what you've decided.
+.((calling off-stage)
+.:Daddy!
+._ALDERMAN FITZWARREN
+.((off-stage)
+.:No!
+._CLOSE CURTAINS
+|\  
+.\Scene 2 - The dock / ship's deck (Front of Tabs)
+..The King Rat is addressing his troops
+._KING RAT
+.:And why have you brought me here?
+._RAT ONE
+>:This is the Alderman's ship. Look
+>:at all the treasures headed for
+.:distant lands.
+._rat two
+>:Gold, and silver, and Mrs Burnett's
+>:pies and little round things which
+.:taste like chocolate.
+._rat one
+.:You know what that makes us?
+._rat two
+.:Pie Rats of the Carob-Bean.
+._KING RAT
+>:You will be punished for that. What
+.:good is all this to me?
+._rat one
+>:With a ship we can go anywhere, not
+>:just a city, but imagine the whole
+.:world run by rats. 
+._rat two
+.:With you as King. Obviously.
+._king rat
+>:Obviously! But even with my army,
+>:how could we take over the entire
+.:world?
+._rat one
+>:With all the treasure, we can make
+>:the greedy humans do our work for
+.:us.
+._rat two
+>:Without knowing it, they will turn
+>:their world into one that's only
+.:fit for rats.
+._king rat
+>:I see. We can make them build
+>:houses too close together, to build
+>:rubbish dumps instead of| schools,
+>:to turn the rivers into sewers, we
+>:can bribe their politicians to pass
+>:laws to arrest anyone who has a
+>:cat. Don't just stand there, put my
+.:plan into action!
+..Exit all
+.\Scene 3 - The ship's hold
+..OPEN CURTAINS 
+>.Darkened stage with hessian covering anything not removed
+>.from stage. We hear seagulls and crashing of waves etc. Dick
+..and the Cat stumble from side to side as the ship rolls.
+._DICK
+>:Daddy! Daddy! That's all she has to
+>:say... and Daddy puts us on his
+>:ship. Third class! Stuck in the
+>:hold for weeks on end. I don't even
+.:know where we're going.
+._cat
+>:Morocco. I heard one of the sailors
+.:say he was going to go 
+.((does bad Spanish accent)
+>:mucho loco at the Go-Go Rococo
+.:Casino in Morocco.
+._DICK
+>:Where was he from with an accent
+.:like that?
+._cat
+.:Boxford.
+._DICK
+>:Small world! They're a funny lot,
+>:this crew. They all seem to be
+>:scared of something. Even Captain
+.:Jack.
+._cat
+>:Oh yes, the cockney Captain, Jack
+>:Barrow. He's probably the most
+.:afraid, of the thing they call...
+._DICK
+.:Yes?
+._cat
+.:The Walt Disney Lawyers.
+._DICK
+>:You know, the crew are awfully
+.:quiet...
+>.Enter stage left, the King Rat. His rat hordes enter stage
+..right and surround Dick and the Cat
+._KING RAT
+>:That is because they've all jumped
+>:overboard! I am in command of this
+>:ship now, and you are my prisoners.
+>:When this ship arrives in Morocco
+>:and the Sultan's guards find all
+>:the treasure gone and just you two
+>:aboard, as well as a hastily
+>:scribbled description of your
+>:mutinous actions which I forced the
+>:best mate to enter into the ship's
+>:log... you will be staked out in
+>:the desert to die, with no food, no
+.:water, and no factor 50!
+._DICK
+.:You fiend!
+._king rat
+>:Not just a fiend. A very rich and
+>:powerful fiend! I'm going to take
+>:over the whole world! We will drive
+>:all the filthy Bee-Hind-Ewes into
+>:the sea! My rats will run,
+>:scrabble, scratch, claw and gnaw
+>:their way through anything and
+.:everything they like.
+._cat
+.:Like they're doing now?
+._KING RAT
+.:Exactly!
+._cat
+>:Gnawing through the planks of this
+.:ship...
+._KING RAT
+.:Exactly... Oh I see.
+..We begin to hear the sound of rushing water
+.:My rats! Time... to leave!
+..The King Rat exits stage left and the Rats stage right.
+._CAT
+>:You know what it means when rats
+.:leave a ship, don't you?
+._DICK
+.:No?
+._cat
+.:We're sinking!
+..They exchange a glance.
+._DICK
+.:Help!
+._cat
+.:Help!
+>.The Cat passes Dick a set of water wings and they start
+..inflating them.
+..Lights down. CLOSE CURTAINS
+.\Scene 4 - A Desert Island (Front of Tabs)
+|.Lights up, music: 
+.."By the Sleepy Lagoon"
+..The cat enters, stage right
+._cat
+.:Dick? Dick?
+..Dick enters.
+._DICK
+>:Here! Well, I've been right round
+>:the island this way. Have you seen
+.:anyone?
+._cat
+>:No, no-one at all. No houses, no
+>:people, no animals, Just sand and
+.:palm trees. How about you?
+>.As Dick and the Cat stand looking out towards the audience,
+>.a tour guide holding an umbrella troops across the back of
+>.the stage leading as many tourists as possible and urging
+..them to keep up.
+._DICK
+>:Completely deserted! Apart from one
+>:very odd woman who refused to talk
+>:to me until I'd told her my eight
+>:favourite songs, my favourite
+>:bedtime story and chosen a luxury
+>:item. She did say I could have the
+>:complete works of Geoffrey Chaucer
+>:as well. I gave it back. Modern
+.:rubbish.
+._cat
+>:I hear the King granted Geoffrey
+>:Chaucer a gallon of wine a day...
+.:for life!
+._DICK
+>:Anything to stop him from writing I
+.:expect.
+._cat
+>:Did this woman say anything about
+.:how to get off this island?
+._DICK
+>:I don't think she wanted to get off
+>:the island. She said it was her job
+>:to interview anyone called Dick who
+>:got stranded here after a
+.:shipwreck.
+._cat
+>:Don't tell me, for "Desert Island
+.:Dicks"?
+._DICK
+>:How did you guess? She did give me
+>:a wine bottle though, said
+>:something about it being on
+.:expenses.
+._cat
+.:Is it a good vintage?
+._DICK
+>:Chateau Completely Empty 1365.
+>:It'll come in useful though. I'm
+>:going to write a message to Mum and
+>:Alice and put it in the bottle and
+.:throw it in the ocean.
+._cat
+>:How are you going to write a
+>:message to both of them with just
+.:one bottle?
+._DICK
+>:Simple, when Mum's read it she can
+>:chuck it in the river Kennet and
+>:it'll float down to the Thames to
+.:Alice.
+._cat
+>:I'm glad you've thought that
+>:through. I can't help thinking
+>:about what's happening back in
+.:Stockcross.
+._DICK
+.:I can't help thinking about Alice.
+._cat
+>:I bet that Dick Piper is letting
+>:everything go to wrack and ruin. I
+>:tried to tell them that it was me
+>:that got rid of all the rats, but
+>:there he was, in his lederhosen,
+>:waving his disgusting sausage,
+.:shouting "Nein! Nein! Nein!"
+..With her usual sound effect, the Fairy appears
+._fairy
+.:You called?
+._DICK
+.:We didn't mean to...
+._fairy
+>:Oh, right you are then, I'll be
+.:off.
+._CAT
+>:But we are very glad to see you.
+.:Aren't we?
+._DICK
+.:Oh yes, of course!
+._fairy
+>:What kind of trouble have you found
+>:yourselves in this time? Stranded
+>:on a desert island, with only the
+>:BBC for company. It's like "Sun,
+.:Sand and Suspicious Sassenachs"!
+._DICK
+.:Is there anything you can do?
+._fairy
+>:Of course there is, where there's a
+>:drill there's a way! I can get you
+>:out of this mess, I've always been
+.:good at extractions!
+|\ 
+.\Scene 5 - Morocco - The Bazaar
+..OPEN CURTAINS 
+>.The same set as the desert island, with fabric drapes, and a
+..table and a couple of chairs to indicate stalls and a cafe?
+..Enter Dick and the Cat
+._DICK
+>:She could have dropped us somewhere
+>:more convenient! We've been walking
+>:for weeks and this is the first
+.:town we've come to.
+._cat
+.:If you don't count the mirages.
+._DICK
+>:Yes, we'd agreed not to mention
+.:those again.
+._cat
+>:It was quite embarrassing seeing
+>:you try to book bed and breakfast
+.:accommodation from a camel.
+._DICK
+>:Yes, he got the right hump. At
+>:least this place seems to be real
+.:enough.
+>.As Dick and the Cat sit down at the Cafe, the waitress
+..enters stage right to greet them. It's Mrs Whittington.
+._MRS WHITTINGTON
+>:Hello dears... what'll it be? Oh
+.:Dick! Fancy seeing you here.
+._DICK
+.:Mum! What are you doing here?
+._MRS WHITTINGTON
+.:Now, I'm not interfering...
+._cat
+.:Heaven forbid!
+._MRS WHITTINGTON
+.:But I got your note...
+._DICK
+.:What note?
+._MRS WHITTINGTON
+>:The message in the bottle! I
+>:thought I'd just pop over and make
+.:sure everything was alright.
+._DICK
+>:You just happened to pop over? How
+.:did you know where we were?
+._MRS WHITTINGTON
+>:I did what you said and sent your
+>:note on to that nice young Miss
+>:Fitzwarren. When she replied she
+>:told me where her father's ship was
+.:headed for.
+._DICK
+>:She replied? With a message in a
+>:bottle? Thrown into the Thames?
+.:Upstream?
+._MRS WHITTINGTON
+>:Don't be so silly. She sent a
+>:carrier kitten. It's like a carrier
+>:pigeon but cuter and less like a
+.:flying rat.
+.((to the Cat)
+.:Hello love!
+._DICK
+.:But how did you get here?
+._MRS WHITTINGTON
+>:Oh the local school's always
+>:sending teenagers to Morocco, it's
+>:a tradition. I said I'd come along
+>:and help out. You know, if the
+>:nights get too rowdy, too late or
+>:one of the locals gets a bit too
+.:friendly...
+._CAT
+>:Then the kids can take you home and
+.:put you to bed?
+._MRS WHITTINGTON
+>:You know me so well. It's funny, of
+>:all the gin joints, in all the
+>:towns, in all the world, you walk
+.:into mine.
+._DICK
+.:Gin?
+._MRS WHITTINGTON
+>:Bit early for me, but go on, twist
+>:my arm! Now you must tell me how
+>:you ended up on a ship, and how you
+.:got shipwrecked...
+._cat
+.:Rats.
+._MRS WHITTINGTON
+.:Where? Where?
+._cat
+>:No, it was rats, hundreds of them.
+>:And one particularly big, mean,
+.:nasty, sort of King Rat.
+._MRS WHITTINGTON
+>:That sounds like the same kind of
+>:trouble they've been having at the
+.:Sultan's palace.
+._cat
+.:The Sultan?
+._MRS WHITTINGTON
+>:Yes, he's the ruler of all Morocco.
+>:He's supposed to be a good man, but
+>:the last few days the whole country
+.:has ground to a halt.
+._cat
+.:Why?
+._MRS WHITTINGTON
+>:The Sultan's wife, the most
+>:beautiful woman in Morocco has been
+>:stood on a table in the highest
+>:tower in the palace, refusing to
+>:come down until all the rats are
+>:gone. There's a fantastic reward
+>:for anyone who can rid the palace
+.:of all the rats.
+._DICK
+.:And the Sultan's devoted to her?
+._MRS WHITTINGTON
+>:The Sultana? She's his raisin for
+>:living. Apart from her currant
+>:situation, everything's been peachy
+>:since they went on their first
+>:date. The Sultan's going bananas.
+>:Oh yes, I wouldn't risk getting
+.:fruity with the Sultana.
+._DICK
+>:No fear, I've found the love of my
+>:life already. But she's so far
+>:away. I'm desperate to get home,
+>:even without making my fortune, but
+>:I think we should try and do
+>:something about the rats at the
+>:Sultan's palace, I feel responsible
+>:because it's kind of our fault
+.:they're here.
+._MRS WHITTINGTON
+>:Oh Dick, you are a good lad. But
+>:what can you do? How are you going
+.:to drive off a horde of rats?
+._cat
+.:Come on, I have a cunning plan!
+._CLOSE CURTAINS
+.\Scene 6 - The Fitzwarren Home (Front of Tabs)
+..In front of drapes, Alice enters.
+._alice
+>:It's awfully quiet without Dick and
+>:the Cat around. I quite miss them.
+>:All those weeks away, and only one
+|:note. Oh, I 
+|:wish
+.: I knew why it bothers me...
+..On Alice's 'wish', the Fairy appears.
+._fairy
+>:Och! It's obvious, you're as much
+>:in love with him as he is with you,
+.:you silly wee thing.
+._alice
+>:Dick's in love with me? Oh why
+>:didn't he tell me? I know what
+.:Daddy will say about that.
+>.Song: It Must Be Love - or similar. Alternatively, something
+|.more traditional like Maybe It's Because 
+|.One
+..'s a Londoner?
+.\ Scene 7 - The Sultan's Palace
+..OPEN CURTAINS 
+..Re-use Kitchen set but with drapes from bazaar?
+>.As the lights come up, we see the Sultana standing on the
+>.table, just legs painted on the backdrop reminiscent of Tom
+..& Jerry.
+>.The Sultan, Dick and the Cat enter. The Sultan hands one of
+..two large scimitars to Dick.
+._Sultan
+>:Agreed! Your plan is... the only
+>:one we have. Usually I would tell
+>:my subjects that if they win my
+>:favour I will reward them greatly,
+.:but if they fail me, I will
+.((swish)
+>:cut off their heads! But, you are a
+.:gentleman, and a guest in our land.
+._DICK
+.:Phew!
+._SULTAN
+>:If you fail, I will do you the
+>:honour of allowing you to cut off
+>:your own head. The cook tells me
+>:the ovens are lit and all the
+>:preparations have been made. So you
+.:and I must to battle!
+..The Sultan and Dick exit stage left.
+._cat
+.((Addressing the audience)
+>:Right, when the Sultan and Dick
+>:drive the rats up here to the
+>:tower,| we're going to make them
+>:think the biggest Bee-Hind-Ewe
+>:they've ever| heard is after them.
+>:I need you in three groups. All the
+>:men, you have to buzz really
+>:loudly, like a bee. All the ladies,
+>:you have to make a high-pitched
+>:bark like a deer. Yes, I know it's
+>:not as easy. That's why we gave the
+>:buzzing to the men! And all the
+>:boys and girls, we need you to baa
+.:like sheep.
+>.The cat and the audience practice, first separately, the
+..bees, then hinds, then ewes.
+>:Is this really the best the Sultan
+>:can come up with?| I think you've
+>:just been sitting around on your
+>:backsides too long! I think| some
+>:of you might even have been...
+.:drinking!
+.((if heckled)
+>:Oh yes you have! Come on all
+.:together, let's try it again.
+>. The Cat leads the audience all together, bees, hinds and
+..ewes, bees, hinds, ewes.
+>.At this point the Rats invade the stage, having been driven
+>.up the palace stairs by the Sultan and Dick. They start
+>.taunting the Sultana, nibbling and gnawing at the furniture.
+>.They surround the Cat and seem to have the upper hand. The
+..Rats laugh at and mock the audience.
+>.Dick and the Sultan enter stage left, pursued by the King
+..Rat, who is holding the two scimitars menacingly.
+._king rat
+>:So kind! To show me the rest of my
+>:palace before I dispose of you all.
+>:And what do we have here? The boy
+>:and the disgusting feline creature!
+>:Oh this day just gets better and
+>:better! I can be rid of you all in
+>:one stroke. What a perfect day for
+>:a rat takeover! The perfect
+>:setting, a palace to call my own, a
+>:base to start the year of the rat,
+.:endless treasure and...
+.((he sniffs the air)
+>:really great catering! Mmmm, roast
+>:venison, lamb, honey! There will be
+.:great gnawing tonight!
+._cat
+.:Now! Now!
+..The Cat starts the audience Buzzing, Barking and Baa-ing.
+..The Rats start to panic.
+._rat one
+.:Master! Master, a Bee-Hind-Ewe!
+._rat two
+.:It's come to get us!
+._RAT THREE
+.:It's a trap!
+._rat one
+.:We have to get out of here!
+..The rats jump from the stage and flee in all directions.
+._king rat
+.:My rats! My rats! Stay! Fight! ... 
+.((becoming frightened)
+.:Don't leave me on my own!
+>.The King Rat leaps off stage, we hear the crash of glass and
+..the sound of a long, long fall.
+._sultan
+>:Dick! A thousand thank-you's.
+>:You've saved my kingdom, restored
+.:order to the land...
+.((addresses the Sultana)
+>:my darling, you may vacate your
+.:table now.
+._DICK
+>:It wasn't really my idea. It was
+.:Cat's.
+._SULTAN
+>:Then the mistress Cat shall be made
+>:an honourary commander of my army,
+>:and will always be welcome in these
+.:lands.
+._DICK
+>:I think a bowl of tuna would
+.:probably have done.
+._sultan
+>:But what about you Dick? Take from
+>:my palace treasury all the gold and
+>:diamonds you can carry! Your
+>:bravery and honesty shall be
+>:rewarded with wealth beyond
+.:imagination.
+._DICK
+>:I think I just want one thing, one
+>:thing I know that can make me
+.:happy.
+._sultan
+.:Name it. It shall be yours.
+._DICK
+>:Do you have a ring? A small one.
+>:Alice has got such delicate hands
+.:you see.
+._sultan
+>:I see you have great wisdom beyond
+>:your years, riches mean nothing to
+>:you without the woman you love. I
+>:will make you take one more thing
+.:though.
+._DICK
+.:Yes?
+._sultan
+>:A letter of introduction to the
+>:King of England. I think he would
+>:do well to find you a job. Perhaps
+.:Mayor of London?
+..Mrs Whittington calls Coo-ee and enters stage right
+._MRS WHITTINGTON
+>:Hello! Not interrupting anything am
+>:I? Don't mean to interfere, but I
+>:overheard my son saying he was
+.:going to ask Alice to marry him.
+._sultan
+.:Yes?
+._MRS WHITTINGTON
+>:I don't suppose you know where I
+.:could buy a hat?
+._CLOSE CURTAINS
+>.Community song, Where Did You Get That Hat? / Get Me To The
+..Church On Time etc etc
+.\ Scene 8 - A Suitable Song and Wedding Walkdown
+..OPEN CURTAINS 
+>.Something like 'All You Need Is Love' (Rat-a-tat-a-tat!),
+..but possibly something more modern!
